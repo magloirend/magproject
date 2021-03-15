@@ -1,4 +1,4 @@
-from firstproject.lib import try_me
+from firstproject.lib import try-mee
 
-def test_try_me():
+def test_try_mee():
     assert a == ╭∩╮(・◡・)╭∩╮
