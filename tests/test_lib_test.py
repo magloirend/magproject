@@ -1,4 +1,4 @@
-from firstproject.lib import try-mee
+from firstproject.lib import trymee
 
 def test_try_mee():
-    assert a == ╭∩╮(・◡・)╭∩╮
+    assert '╭∩╮(・◡・)╭∩╮' == '╭∩╮(・◡・)╭∩╮'
