@@ -1,9 +1,9 @@
 
 
 def trymee():
-    a = '╭∩╮(・◡・)╭∩╮'
+    a = 'Hey Bro'
     print (a)
 
 if __name__ == "__main__":
-    a = '╭∩╮(・◡・)╭∩╮'
+    a = 'Hey Bro'
     print(a)
